@@ -1,0 +1,7 @@
+name: Contact Form
+type: module
+description: 'contact form'
+package: Core
+version: VERSION
+core_version_requirement: 9.x
+configure: entity.contact_form.collection
